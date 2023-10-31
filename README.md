@@ -2,15 +2,15 @@
 
 > @Affiliate: Department of Electrical & Electronic Engineering, Imperial College London
 
-> @Date: XXX
+> @Date: 31 Oct 2023
 
 > MATLAB Version: 2019B or later
 
-# Robust-Waveform: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+# Robust-Waveform: Robust Waveform Design
 
 Online supplementary materials of the paper titled 
 
-**XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX**
+**Robust Waveform Design for Integrated Sensing and Communication**
 
 Under Submission
    
