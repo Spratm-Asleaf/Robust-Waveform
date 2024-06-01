@@ -16,7 +16,7 @@ Online supplementary materials of the paper titled
 
 **Robust Waveform Design for Integrated Sensing and Communication**
 
-Published in the _IEEE Transactions on Signal Processing_ (DOI: [XXX](XXX))
+Published in the _IEEE Transactions on Signal Processing_ ([Full Paper](https://bear-wangsx.github.io/files/publications/2024/[Wang%202024%20TSP]%20Robust%20Waveform%20Design%20for%20ISAC.pdf))
 
 Authored by Shixiong Wang, Wei Dai, Haowei Wang, and Geoffrey Ye Li
 
