@@ -16,7 +16,7 @@ Online supplementary materials of the paper titled
 
 **Robust Waveform Design for Integrated Sensing and Communication**
 
-_(Revision Submitted to the IEEE Transactions on Who Knows Which)_
+_IEEE Transactions on Signal Processing_
 
 Authored by Shixiong Wang, Wei Dai, Haowei Wang, and Geoffrey Ye Li
 
